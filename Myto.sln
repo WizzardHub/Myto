@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyGen", "KeyGen\KeyGen.csproj", "{036C06BC-1359-4FB3-9EB1-294E6E6EC4FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{036C06BC-1359-4FB3-9EB1-294E6E6EC4FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{036C06BC-1359-4FB3-9EB1-294E6E6EC4FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{036C06BC-1359-4FB3-9EB1-294E6E6EC4FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{036C06BC-1359-4FB3-9EB1-294E6E6EC4FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
